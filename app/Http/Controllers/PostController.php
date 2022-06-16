@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
-    public function testfunction()
+    public function testfunction2()
     {
         return '';
     }
